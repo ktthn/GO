@@ -1,6 +1,8 @@
 package main
 
-import "testing"
+import (
+	"testing"
+)
 
 // автоматичсекая генерация юнит тестов для функций в голэнде
 func Test_equal(t *testing.T) {
